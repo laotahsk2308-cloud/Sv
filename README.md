@@ -1,10 +1,1 @@
---kpahmod.top--:157.66.218.159:18754:0,
---ngude.top--:157.66.218.159:61423:0,
---kpah88.top--:sv.kpah88.top:19129:0,
---kpah2.net--:sv.kpah2.net:19129:0,
---tuoitho9x.click--:sv.tuoitho9x.click:19129:0,
---kpahlau.click--:sv.kpahlau.click:19129:0,
---kpahvn-sv2--:14.225.207.172:19130:0,
---kpahvn-sv3--:sv.kpahvn.top:19129:0,
---KpahMax+5g--:sv.kpah5g.com:19129:0,
---aehoitu--:103.238.234.118:19129:0
+--ngude.top--:157.66.218.159:61423:0
